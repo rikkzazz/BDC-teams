@@ -1,2 +1,2 @@
 # BDC-teams
-Team Richard et Stephan
+Team Richard (also known as rikkzazz in Github) et Stephan
